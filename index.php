@@ -98,7 +98,7 @@ $newPhotos = StreamingPhotos('https://photos.google.com/share/AF1QipNIait7RenW_p
   </div>
 
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-  <script src="https://content.jwplatform.com/libraries/DbXZPMBQ.js"></script>
+  <script src="https://content.jwplatform.com/libraries/0P4vdmeO.js"></script>
 	<script>
 		
 		var player = jwplayer('services');
