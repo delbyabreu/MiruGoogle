@@ -16,8 +16,8 @@
 # Variables de MiruGoogle. Principales
 
 	# Modulos de Jwplayer 
-	define('LJ_KEY','ABCdeFG123456SeVenABCdeFG123456SeVen==');
-	define('LJ_URL','https://content.jwplatform.com/libraries/RfrA9hoC.js');
+	define('LJ_KEY','cLGMn8T20tGvW+0eXPhq4NNmLB57TrscPjd1IyJF84o=');
+	define('LJ_URL','https://ssl.p.jwpcdn.com/player/v/8.6.2/jwplayer.js');
 
 	# Modulos de MiruGoogle
 	define('MD_API','ab14a56c06616cabdfbc6b4b15b3ac77');
